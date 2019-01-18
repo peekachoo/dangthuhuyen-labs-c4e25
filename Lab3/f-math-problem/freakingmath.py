@@ -1,6 +1,7 @@
 from random import *
+
 import sys
-sys.path.append(r'C:\Users\dhuye\Desktop\C4E25\labs\lab3')
+sys.path.append('../')
 from calc import eval
 from f_math_2 import create 
 

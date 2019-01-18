@@ -41,7 +41,7 @@ def generate_quiz():
     ]
 
 import sys
-sys.path.append(r'C:\Users\dhuye\Desktop\C4E25\labs\lab3\homework')
+sys.path.append('../')
 
 from part_7_12 import is_inside
 
